@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity {
         mEditExpiryYear = findViewById(R.id.edit_expiry_year);
 
 
-mEditCardNum.setText("5060666666666666666");
+        mEditCardNum.setText("5060666666666666666");
         Button mButtonPerformTransaction = findViewById(R.id.button_perform_transaction);
         Button mButtonPerformLocalTransaction = findViewById(R.id.button_perform_local_transaction);
 
